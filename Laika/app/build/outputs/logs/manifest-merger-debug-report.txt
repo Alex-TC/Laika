@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\4cff76f96f818997493f20de3a47a3b5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\6d743e76e801a828053d09419375d77b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\9e8a598448d4010825340bef5aab74a3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\139f21bbfbfc26df4de198a425b35b65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\2ae9cce747a7afd9b881fce6f0da3b88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\67dff608cb51cc4be8bbd95934610ec4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\e422413490e6344eab9a89325b4f9925\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d9c07540b5b119b98d5b9e3c3fbd75fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\80d6bedd6312337f48115214b259c1a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\1fdf33f14686c2686c46b5b4df410323\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\a8cdd6f29db01026adf40aaadea5f0e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\232a208943f1b6aa9f7d2071691bd9d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ec2e3da78dff0924b8b46f41e2a0ff0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\de8616e037b21e49147011adf6c5fa99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ec68cc7d94528d95d40523289506b695\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d50e1eb77623b384e47f262d77ebbcf3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\310d8ba9b49947c27097266063634e6c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\1dc4d662530493e2230712015c12f780\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ced8ef69dbf8041a7f2bd901b14611ba\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\75bb01a47eec68b97284903d538881e9\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\52435e7813d33f42ac46ec24ed95ec64\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\77e2e25aee7bc032af9a3443142e095c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\396b6ce15d9b22883baea57da377d615\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ff6fc1c5840ac6757580e25fd729fe68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\16a455ca0a3977afd4827be5f91eeaea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d4cb609cba37aed296a280532a6afa48\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ea2ceed087741961b29b303df2c2ce23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\b511efed7ef09ed5b72ae29c9c6a7049\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\536689e882fdee325eaf311442fe9e04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\6d8e6f524a162e600974ea18afc5aef6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\115996438dbb6f57d4e7b0d9635258b7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:3:5-24
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\4cff76f96f818997493f20de3a47a3b5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\4cff76f96f818997493f20de3a47a3b5\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\9e8a598448d4010825340bef5aab74a3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\9e8a598448d4010825340bef5aab74a3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ced8ef69dbf8041a7f2bd901b14611ba\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ced8ef69dbf8041a7f2bd901b14611ba\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\75bb01a47eec68b97284903d538881e9\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\75bb01a47eec68b97284903d538881e9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ced8ef69dbf8041a7f2bd901b14611ba\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:11:9-40
+activity#laika.gwc.MainActivity
+ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\4cff76f96f818997493f20de3a47a3b5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\4cff76f96f818997493f20de3a47a3b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\6d743e76e801a828053d09419375d77b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\6d743e76e801a828053d09419375d77b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\9e8a598448d4010825340bef5aab74a3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\9e8a598448d4010825340bef5aab74a3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\139f21bbfbfc26df4de198a425b35b65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\139f21bbfbfc26df4de198a425b35b65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\2ae9cce747a7afd9b881fce6f0da3b88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\2ae9cce747a7afd9b881fce6f0da3b88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\67dff608cb51cc4be8bbd95934610ec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\67dff608cb51cc4be8bbd95934610ec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\e422413490e6344eab9a89325b4f9925\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\e422413490e6344eab9a89325b4f9925\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d9c07540b5b119b98d5b9e3c3fbd75fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d9c07540b5b119b98d5b9e3c3fbd75fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\80d6bedd6312337f48115214b259c1a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\80d6bedd6312337f48115214b259c1a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\1fdf33f14686c2686c46b5b4df410323\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\1fdf33f14686c2686c46b5b4df410323\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\a8cdd6f29db01026adf40aaadea5f0e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\a8cdd6f29db01026adf40aaadea5f0e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\232a208943f1b6aa9f7d2071691bd9d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\232a208943f1b6aa9f7d2071691bd9d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ec2e3da78dff0924b8b46f41e2a0ff0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ec2e3da78dff0924b8b46f41e2a0ff0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\de8616e037b21e49147011adf6c5fa99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\de8616e037b21e49147011adf6c5fa99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ec68cc7d94528d95d40523289506b695\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ec68cc7d94528d95d40523289506b695\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d50e1eb77623b384e47f262d77ebbcf3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d50e1eb77623b384e47f262d77ebbcf3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\310d8ba9b49947c27097266063634e6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\310d8ba9b49947c27097266063634e6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\1dc4d662530493e2230712015c12f780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\1dc4d662530493e2230712015c12f780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ced8ef69dbf8041a7f2bd901b14611ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ced8ef69dbf8041a7f2bd901b14611ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\75bb01a47eec68b97284903d538881e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\75bb01a47eec68b97284903d538881e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\52435e7813d33f42ac46ec24ed95ec64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\52435e7813d33f42ac46ec24ed95ec64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\77e2e25aee7bc032af9a3443142e095c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\77e2e25aee7bc032af9a3443142e095c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\396b6ce15d9b22883baea57da377d615\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\396b6ce15d9b22883baea57da377d615\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ff6fc1c5840ac6757580e25fd729fe68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ff6fc1c5840ac6757580e25fd729fe68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\16a455ca0a3977afd4827be5f91eeaea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\16a455ca0a3977afd4827be5f91eeaea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d4cb609cba37aed296a280532a6afa48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\d4cb609cba37aed296a280532a6afa48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ea2ceed087741961b29b303df2c2ce23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\ea2ceed087741961b29b303df2c2ce23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\b511efed7ef09ed5b72ae29c9c6a7049\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\b511efed7ef09ed5b72ae29c9c6a7049\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\536689e882fdee325eaf311442fe9e04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\536689e882fdee325eaf311442fe9e04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\6d8e6f524a162e600974ea18afc5aef6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\6d8e6f524a162e600974ea18afc5aef6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\115996438dbb6f57d4e7b0d9635258b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Girls Who Code JPMC\.gradle\caches\transforms-2\files-2.1\115996438dbb6f57d4e7b0d9635258b7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Girls Who Code JPMC\AndroidStudioProjects\Laika\app\src\main\AndroidManifest.xml
