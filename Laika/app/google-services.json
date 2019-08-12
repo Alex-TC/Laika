@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122044584956",
+    "firebase_url": "https://laikagwc.firebaseio.com",
+    "project_id": "laikagwc",
+    "storage_bucket": "laikagwc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122044584956:android:8cb297954c526d76",
+        "android_client_info": {
+          "package_name": "laika.gwc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122044584956-svnsmtqv4fde1drtf29724s2fbed3m04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbLrqCQD4TdOW-CuNTh8jcfFqxTfdEgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122044584956-svnsmtqv4fde1drtf29724s2fbed3m04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
